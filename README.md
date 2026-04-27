@@ -28,7 +28,7 @@
 
 <br/>
 
-Here are some ideas to get you started:
+---
 
 ## 🧑‍💻 About Me
 
@@ -133,6 +133,7 @@ Education:
 
 ## 📊 GitHub Stats
 
+<<<<<<< HEAD
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snjeev-kushwaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
   &nbsp;
@@ -184,3 +185,34 @@ Education:
   <br/><br/>
   <b>📫 sanjeevkushwaha876@gmail.com &nbsp;|&nbsp; 📱 +91 7974781784 &nbsp;|&nbsp; 📍 Hyderabad, India</b>
 </div>
+=======
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 🏗️ Domains I've Shipped In
+
+```
+🏭 Industrial IIoT Platforms       ·  Real-time sensor data, MQTT, edge integration
+💬 Real-Time Communication Systems ·  WebRTC, WebSockets, video/audio conferencing
+🤖 Conversational AI Products      ·  Chatbots, RAG, Agentic workflows, MCP
+🛒 E-Commerce Platforms            ·  High-traffic APIs, payments, catalog systems
+```
+
+---
+
+<p align="center">
+  <i>⚡ "Clean architecture, maintainability, and performance — always."</i>
+</p>
+
+<p align="center">
+  <b>📫 Reach me at: sanjeevkushwaha876@gmail.com | 📱 +91 7974781784</b>
+</p>
+>>>>>>> main
