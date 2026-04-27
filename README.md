@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Phone-%2B91%207974781784-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=snjeev-kushwaha&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </div>
 
 <br/>
@@ -134,17 +134,17 @@ Education:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snjeev-kushwaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snjeev-kushwaha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snjeev-kushwaha&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=snjeev-kushwaha&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </div>
 
 ---
@@ -152,7 +152,7 @@ Education:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/snjeev-kushwaha/snjeev-kushwaha/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
@@ -160,7 +160,7 @@ Education:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snjeev-kushwaha&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
