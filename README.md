@@ -36,7 +36,7 @@
 
 ```yaml
 Name     : Sanjeev Kushwaha
-Role     : Software Engineer @ Nuacem AI
+Role     : Software Engineer
 Location : Hyderabad, India 🇮🇳
 Exp      : 4.5+ Years
 
@@ -74,7 +74,7 @@ Education:
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
 
 ### 🔹 Databases & Messaging
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,kafka,rabbitmq&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,kafka,rabbitmq,mqtt&theme=dark" />
 
 ### 🔹 Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,grafana,nginx&theme=dark" />
