@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+with+4.5%2B+Years+Experience+%F0%9F%9A%80;Building+Scalable+%26+High-Performance+Web+Apps+%E2%9A%A1;Node.js+%7C+React.js+%7C+TypeScript+%7C+AWS+%7C+Docker;Agentic+AI+%7C+RAG+Pipelines+%7C+MCP+Integrations+%F0%9F%A4%96;Real-Time+Systems+%7C+WebRTC+%7C+WebSockets+%7C+Kafka" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+with+5%2B+Years+Experience+%F0%9F%9A%80;Building+Scalable+%26+High-Performance+Web+Apps+%E2%9A%A1;Node.js+%7C+React.js+%7C+TypeScript+%7C+AWS+%7C+Docker;Agentic+AI+%7C+RAG+Pipelines+%7C+MCP+Integrations+%F0%9F%A4%96;Real-Time+Systems+%7C+WebRTC+%7C+WebSockets+%7C+Kafka" alt="Typing SVG" />
   </a>
 </div>
 
@@ -38,7 +38,7 @@
 Name     : Sanjeev Kushwaha
 Role     : Software Engineer
 Location : Hyderabad, India 🇮🇳
-Exp      : 4.5+ Years
+Exp      : 5+ Years
 
 Focus:
   - Scalable Web Applications
