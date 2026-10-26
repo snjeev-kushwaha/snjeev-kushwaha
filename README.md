@@ -161,10 +161,10 @@ Education:
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snjeev-kushwaha&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://ghchart.rshah.org/30a14e/snjeev-kushwaha" alt="GitHub contribution activity chart" />
 </div>
 
 ---
