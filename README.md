@@ -186,5 +186,5 @@ Education:
 <div align="center">
   <i>⚡ "Clean architecture, maintainability, and performance — always."</i>
   <br/><br/>
-  <b>📫 sanjeevkushwaha876@gmail.com &nbsp;|&nbsp; 📱 +91 9179873934 &nbsp;|&nbsp; 📍 Hyderabad, India</b>
+  <b>📫 sanjeevkushwaha876@gmail.com &nbsp;|&nbsp; 📱 +91 7974781784 &nbsp;|&nbsp; 📍 Hyderabad, India</b>
 </div>
