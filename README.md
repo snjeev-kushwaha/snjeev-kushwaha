@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjeev%20Kushwaha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Node.js%20%7C%20React.js%20%7C%20AWS%20%7C%20AI&descAlignY=55&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjeev%20Kumar%20Kushwaha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Node.js%20%7C%20Nest.js%20%7C%20React.js%20%7C%20AWS%20%7C%20AI&descAlignY=55&descSize=16" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+with+5%2B+Years+Experience+%F0%9F%9A%80;Building+Scalable+%26+High-Performance+Web+Apps+%E2%9A%A1;Node.js+%7C+React.js+%7C+TypeScript+%7C+AWS+%7C+Docker;Agentic+AI+%7C+RAG+Pipelines+%7C+MCP+Integrations+%F0%9F%A4%96;Real-Time+Systems+%7C+WebRTC+%7C+WebSockets+%7C+Kafka" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Senior+Software+Engineer+with+5.5%2B+Years+Experience+%F0%9F%9A%80;Building+Scalable+%26+High-Performance+Web+Apps+%E2%9A%A1;Node.js+%7C+React.js+%7C+TypeScript+%7C+AWS+%7C+Docker;Agentic+AI+%7C+RAG+Pipelines+%7C+MCP+Integrations+%F0%9F%A4%96;Real-Time+Systems+%7C+WebRTC+%7C+WebSockets+%7C+Kafka" alt="Typing SVG" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@
   </a>
   &nbsp;
   <a href="tel:+917974781784">
-    <img src="https://img.shields.io/badge/Phone-%2B91%207974781784-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-%2B91%209179873934-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=snjeev-kushwaha&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -36,20 +36,22 @@
 
 ```yaml
 Name     : Sanjeev Kushwaha
-Role     : Software Engineer
+Role     : Technical Lead | Senior Software Engineer
 Location : Hyderabad, India 🇮🇳
-Exp      : 5+ Years
+Exp      : 5.5+ Years
 
 Focus:
   - Scalable Web Applications
   - Real-Time Systems (WebRTC, WebSockets)
   - Microservices & Event-Driven Architecture
   - AI-Integrated Engineering (RAG, Agents, MCP)
+  - Application Modernization (Ruby on Rails → NestJS, React & CloudForge Deployment)
 
 Currently:
   - Building Agentic AI workflows
   - Exploring LangChain & LangGraph
   - Working on MCP Server Integrations
+  - Developing Retrieval-Augmented Generation (RAG) Systems
 
 Education:
   - MCA — RGPV University (2022–2024)
@@ -92,9 +94,10 @@ Education:
 
 | 🏢 Company | 💼 Role | 📅 Period | 📍 Location |
 |-----------|---------|----------|------------|
-| **Nuacem AI** | Software Engineer | Mar 2025 – Present | Hyderabad |
+| **Trianz** | Technical Lead | Jul 2026 – Present | Hyderabad |
+| **Nuacem AI** | Software Engineer | Mar 2025 – Apr 2026 | Hyderabad |
 | **Rubus Digital Inc.** | Software Developer | Jul 2023 – Jan 2025 | Hyderabad |
-| **MicroTechnologies India** | Full-Stack Developer | Sep 2021 – Aug 2023 | Bhopal |
+| **Micro Technologies India** | Full-Stack Developer | June 2021 – Jul 2023 | Bhopal |
 
 </div>
 
@@ -182,5 +185,5 @@ Education:
 <div align="center">
   <i>⚡ "Clean architecture, maintainability, and performance — always."</i>
   <br/><br/>
-  <b>📫 sanjeevkushwaha876@gmail.com &nbsp;|&nbsp; 📱 +91 7974781784 &nbsp;|&nbsp; 📍 Hyderabad, India</b>
+  <b>📫 sanjeevkushwaha876@gmail.com &nbsp;|&nbsp; 📱 +91 9179873934 &nbsp;|&nbsp; 📍 Hyderabad, India</b>
 </div>
